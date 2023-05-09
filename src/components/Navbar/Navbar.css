@@ -1,0 +1,43 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px black solid;
+}
+.navLogo{
+    margin-left: 20px;
+}
+.navbar h1{
+    font-size: 30px;
+}
+a{  
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.toggle-btn{
+    display: none;
+
+
+}
+.toggle-line{
+    width: 25px;
+    margin: 5px;
+    border: 2px solid black;
+}
+.navLinkShow{
+    display: block;
+}
+
+@media screen and (max-width:600px) {
+    .toggle-btn{
+        display:block
+    }
+    .navLink{
+        display: none;
+    }
+
+}

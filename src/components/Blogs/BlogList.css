@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+.dispBlogContainer{
+    border-bottom: 2px solid black;
+    padding: 20px;
+}
+
+.dispBlogContainer h2{
+    color: rgb(94, 100, 47);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+}
+
+.dispBlogContainer button{
+    background: rgb(127, 74, 74);
+    padding: 7px;
+    color: beige;
+    border-radius: 5px;
+}

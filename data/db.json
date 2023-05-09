@@ -1,0 +1,28 @@
+{
+    "blogs":[
+        {
+            "Title":"Coins",
+            "body":"Built into blockchain",
+            "Author": "Sam Smith",
+            "id":1
+        },
+        {
+            "Title":"Tokens",
+            "body":"Built on top of an existing blockchain",
+            "Author": "Mr Crowley",
+            "id":2
+        },
+        {
+            "Title":"World Fastest Bike",
+            "body":"What is the #1 fastest bike in the world? The turbine-powered MTT 420-RR is currently the fastest bike in the world with a top speed of 273 mph (439 km/h). ",
+            "Author": "Chef Wan",
+            "id":3
+        },
+        {
+            "Title":"Smartest Bleach Character",
+            "body":"Kisuke Urahara",
+            "Author": "Chef BoB",
+            "id":4
+        }
+    ]
+}
